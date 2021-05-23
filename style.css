@@ -1,0 +1,59 @@
+.jumbotron{
+    background: url(images/night-of-living-dead-farmhouse-siege.jpg) top center;
+    background-size: cover;
+     height:600px;
+     text-align: center;
+    color: rgba(247, 11, 23, 0.767);
+    padding-top: 10em;
+    padding-bottom: 3em;
+
+}
+
+h2{
+    font-size: 100px;
+}
+/* .jumbotron-image {
+    background-image: url(/home/wolfman/Projects/NOTLD/night-of-living-dead-farmhouse-siege.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+img {
+    background-size: cover;
+    margin: 
+}
+
+body{
+    background-color: black;
+}
+
+h4 {
+    color: crimson;
+    padding-bottom: 3em;
+    padding-top: 1em;
+    text-align: center;
+}
+
+p{
+    color: crimson;
+    padding-bottom: 3em;
+    padding-top: 1em;
+    text-align: center;
+    
+}
+
+a{
+    color: crimson;
+    /* padding-left: 35em; */
+    
+}
+
+.navbar{
+    padding: 1em;
+    
+} 
+.navbar li {
+    float: none;
+    position: absolute;
+    right: 45%;
+    }
